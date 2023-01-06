@@ -28,6 +28,6 @@ The main objective of bank management is to build organic and optimal system of 
     * Change Password
     
  
-If You want a detailed REPORT of this Project you can Approach me..!!'medarametlasreeram16@gmail.com'..!!
+If You want a detailed REPORT of this Project you can Approach me !!medarametlasreeram16@gmail.com!!
 
 
