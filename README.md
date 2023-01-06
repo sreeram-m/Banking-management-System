@@ -30,7 +30,7 @@ The main objective of bank management is to build organic and optimal system of 
 
 ## DESIGN
 
-## *USER*
+### *USER*
 
 ![image](https://user-images.githubusercontent.com/59334770/211003619-320d9cd1-c3d3-4e6a-94f8-5981bec6e460.png)
 
@@ -48,7 +48,7 @@ The main objective of bank management is to build organic and optimal system of 
 
 ![image](https://user-images.githubusercontent.com/59334770/211004776-86393a65-0304-4bf6-86d8-719b24858e1d.png)
 
-## *ADMIN*
+### *ADMIN*
 
 ![image](https://user-images.githubusercontent.com/59334770/211004838-bb8f1024-462e-481f-a470-8d0e66f9e7c5.png)
 
