@@ -16,17 +16,18 @@ The main objective of bank management is to build organic and optimal system of 
 - [ ] User Authentication
 - [ ] New Account
 - [ ] User Homepage
-    ** Profile
-    ** Deposit
-    ** Withdraw
-    ** View Balance
-    ** Transfer
-    ** Change Pin
+    * Profile
+    * Deposit
+    * Withdraw
+    * View Balance
+    * Transfer
+    * Change Pin
  - [ ] Adimn Authentication
  - [ ] Admin homepage
-    ** Customer List
-    ** Change Password
+    * Customer List
+    * Change Password
     
  
- # If You want a detailed REPORT on the this Project you can Approach me...!!
-    
+If You want a detailed REPORT of this Project you can Approach me..!!'medarametlasreeram16@gmail.com'..!!
+
+
